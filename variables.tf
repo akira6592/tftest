@@ -1,4 +1,4 @@
 variable "instance_type" {
-  desctiption = "type"
+  description = "type"
   default = ""
 }
